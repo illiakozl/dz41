@@ -14,4 +14,5 @@ let ladder = {
     }
 };
 
+
 ladder.up().up().up().down().showStep(); // 1
